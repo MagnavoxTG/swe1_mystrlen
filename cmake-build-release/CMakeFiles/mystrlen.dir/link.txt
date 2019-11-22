@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG   CMakeFiles/mystrlen.dir/main.c.o  -o mystrlen 
